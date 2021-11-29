@@ -1,0 +1,163 @@
+It's going to be OK.
+
+Before you open up this unit, take the precaution to realize that this thing is
+a relic. It's a relic of the time and there is more ways to ruin it than may
+seem apparent. Physically and mechanically there are easy ways to ruin this
+unit. Electrically there are many ways to ruin this unit. Be careful and
+cautious. This is a piece of history!
+
+***** Let's take these precautions: *****
+
+First, when the unit is upright, using your camera, take a picture of the
+location, color, and type of knob and button across the entire control area.
+Then, write down on a peice of paper that information.
+
+"From left to right, knob color X, knob color Y, button color Z, button color
+R, etc.."
+
+So if there's ever a problem with the photos, you can refer to your notes. (In
+facttake notes about everything you do when you work on this unit. They can be
+invaluable later as you try to re-assemble the unit.)
+
+***** Watch the Bender *****
+
+The bender lever is unique. It's attached inside rather delicately, so the
+danger is when you flip the unit over to take the bottom cover off, if the
+setup is not padded well you may accidently push down on the actual lever
+against a hard surface. That will likely break the plastic mount inside the
+unit that holds the bender lever in place. Fixing that is not simple (possible
+but not simple).
+
+After taking your notes and pictures of where knobs and slider buttons are, now
+we need to make a padded area for the unit to sit. Get some foam, thick towels,
+etc.. and lay the control side of the unit down but mind where the bender lever
+is. DO NOT REST THE UNIT HARD AGAINST THE BENDER LEVER. If the tip of the lever
+is in contact with your work surface, add more padding to raise it up. I cannot
+stress this enough. It's as irreplaceable as your first child. Do you love your
+first child? Then treat the bender lever with as much respect.
+
+Same could be said for the switches in the Bender area as well. They may not
+seem proud enough to make contact with the
+
+***** General Advice for Removing Boards on SH-101 *****
+
+Remove all the boards from the SH-101 to work on it correctly. There's no real
+easy way to work on the unit without all of the boards removed. It'll just be
+more convenient for a full diagnostic check of everything on the unit.
+
+After removing the bottom metal cover (remove the perimter screws first, they
+are probably Phillips head. They have a coarse pitch - they are meant to drive
+into a plastic post inside the unit. Be gentle.
+
+After removing the permiter screws (and putting them in a container to keep
+track of them) then there will be 4 (if I remember correctly) interior screws
+on the bottom cover plate that are machine screws. They connect the cover to
+the keyboard bed assembly. They are tapped for the threads on the sheet metal
+assembly inside. Gently remove them. Keep them organized.
+
+You can now remove the bottom cover.
+
+Inside there are a few areas where boards are mounted. For orientation, we're
+going to refer to the system with the back cover off, and the keyboard bed to
+the "south". To the "north" of the keyboard bed is the pair of long control and
+synth boards.
+
+   1. The main board and the synth board are stacked on each other connected by
+      multiple ribbon cables. The wire in the ribbon cables are solid core, not
+      stranded. They are not mounted on headers, they are soldered directly to
+      the boards. We'll talk about removing them last.
+   2. The bender board (south east corner) is routed to the main board via
+      cable harnesses. Those harnesses do fit into socket headers. You could
+      remove the harnesses from the main board. The harnesses that mount onto
+      0.100" connectors are plastic fittings with a plastic lock tab. Do not
+      pry the lock tab. The lock tab is thin plastic and if you work on it too
+      firmly it'll break off. Slip a very thin flat precision screw driver
+      between the header and the plug to lift it off the header slightly. Work
+      both ends and it will be possible to hand-wiggle it off. The bender
+      potentiometer is mounted inside the unit with coarse thread screws into
+      plastic posts inside. Loosen them and remove the bender potentiometer
+      assembly from the case, but do not remove the harness for it. Keep it all
+      together.
+   3. The power supply / Audio Output card is snapped in to the plastic case.
+      No screw holds the board down, but the ground lug from the power supply
+      board will have already been released when you took off the bottom cover.
+      It will have two connectors to the main synth board. One is a two pin
+      header near the north west corner of the main synth board. The other is a
+      two-row (20 pin if I remember) header near the north east corner of the
+      main synth board. That 20-pin header is very stiff to remove, so use the
+      same advice as mentioned above about removing the harness from the board.
+   4. There's a small I/O port board in the north east corner. That can pop out
+      without any hassle.
+   5. Now the main synth board. With masking tape, label each harness that is
+      plugged into a header on the main synth board. Number them from left to
+      right. Place the number on the masking tape, and tape onto the wire-
+      harness. This will help you make sure you get it all connected back right
+      and relieve your mind as to what should happen.
+   6. Along the perimeter of the main synth board is a series of coarse
+      threaded screws. Phillips head. Carefully loosen them. Don't press to
+      hard, but hard enough to get purchase on the head to turn it. Make sure
+      your screw driver is fitted correctly (not too big, not too small).
+      Loosen and remove all of those screws. Save them together. The keyboard
+      is connected by two wire harnesses. Disconnect the wire-harnesses for the
+      keyboard FROM THE KEYBOARD side, not the synth board side.
+   7. Gently lift the north side of the main synth board. It will "hinge" on
+      the set of interconnecting ribbon cables soldered between the control
+      board and the main synth board above it. Gendly hinge the main synth
+      board up, lifting from the north side until the main synth board is
+      vertical.
+   8. Now you can access the screws holding the control board. They will be
+      along the perimeter. They will be the same kind used for the main synth
+      board. There may be a couple that are interior to the board, I cannot
+      remember for sure. But loosen and remove them all. Store them aside.
+   9. Now all of the boards are un-secured from the unit. Carefully lift the
+      whole gangly set of boards, harnesses, etc.. UP and out of the main
+      plastic case. Set this aside on a clean flat surface. If you need to you
+      can slowly (SLOWLY) hinge the control board and main synth board further
+      so that it is flattened. If the ribbon cables need to bend, bend them IN
+      THE MIDDLE of the cable not near the point where they are soldered to the
+      PCB. And by "Bend" I do not mean literally bending it sharply, but let
+      the ribbon cable flex from the middle of the cable not near the solder
+      points. Those are going to be your weak points and difficult to repair if
+      you break off the wire to the PCB.
+  10. Now you can remove the keyboard bed from the case. Set that aside in a
+      safe place ( padded and out of the way from danger -- it's
+      irreplaceable). You won't need it again until it's time to test any fixes
+      to the system. The Roland SH-101 has capabilities to "play" without using
+      the keyboard.
+
+***** Prep the boards for re-work. *****
+
+   1. The simplest thing to do here is to get some 1" stand-offs (4-40 thread).
+      Place one stand-off male through a hole from the underside of the control
+      and synth boards. On the component side of the boards, connect to the
+      female end of another stand-off. This will give you a stable way of
+      setting the boards on a work-surface to reach all the components and
+      traces without damaging the existing components/traces. You'll need about
+      20 or so pairs of these stand-offs. 6-32 will be too big, if I remember.
+      Use 4-40 thread sized stand-offs. They can be aluminum or nylon, it won't
+      matter. But nylon is preferred.
+   2. The boards that will need stand-offs are: Bender board, main synth board,
+      and the control board.
+   3. The boards that do not have stand-offs will be the button bank board (did
+      I remember to mention that above.. you'll see it anyway - it's just north
+      of the keyboard bed) and the power/ audio jack board and external-handle
+      input board-let. For those what I did was place a small piece of
+      cardboard that fit the shape of each board under each board (contacting
+      the solder pad side) and then with some strips of electrical tape
+      (gently) fasten the board to the cardboard layer. This will keep the
+      components/solder-pads from the boards from accidently making contact
+      where they ought not. I even wrapped them into little plastic cocoons so
+      that they were fully insulated from any contact from anything else -
+      - except the pig-tail wire-harness sticking out.
+
+***** Jig for working *****
+
+I ended up strapping down all of the boards ( after preparing them as described
+above) to another card-board or plexiglass wafer so that the whole thing could
+be turned over or moved around to suit. You'll need to get access to both the
+component (top) and solder pad (bottom) sides of the main synth and control
+boards, so don't cover.
+
+A picture should go here with how it might look. TBD
+
+
