@@ -1,0 +1,13 @@
+## Bender Board Transistors
+
+ID | Type | OEM Part Number | Replacement
+---|------|-----------------|------------
+TR1 | N-JFET | 2SK30A | 2N5457
+TR2 | NPN | 2SC1583 | BC846BDW1T1G
+TR3 | NPN | 2SC1815 | KTC3198-Y A1G
+TR4 | PNP | 2SA1015 | KSA1281YTA
+TR5 | NPN | 2SC1815 | KTC3198-Y A1G
+TR6 | NPN | 2SC1815 | KTC3198-Y A1G
+TR7 | NPN | 2SC1815 | KTC3198-Y A1G
+TR8 | PNP | 2SA1015 | KSA1281YTA
+
