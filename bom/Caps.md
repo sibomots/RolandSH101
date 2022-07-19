@@ -1,5 +1,11 @@
 ## Capacitors on main board
 
+Notes:
+
+* `c` denotes Ceramic disc.
+* Value/Number denotes  Capacitance/Voltage 
+* For the most part the `+` sign is just a reminder that it's
+electrolytic.
 
 ID | Value | Replacement | Notes (or near)
 ---|-------|-------------|---------------
@@ -23,7 +29,7 @@ C15 | 0.01 c | ?? | not found
 C16 | +2.2uF/50 | UPJ1H2R2MDD  |  
 C17 | +10uF/16 | UPJ1H100MDD  |  
 C18 | +10uF/16 | UPJ1H100MDD  |  
-C19 | 100pF |  | "100pF=DSS1NB32A101Q91A 
+C19 | 100pF |  | DSS1NB32A101Q91A 
 C20 | +1uF/50 | UPJ1H010MDD1TD  |  
 C21 | +1uF/50 | UPJ1H010MDD1TD  |  
 C22 | +2.2uF/50 | UPJ1H2R2MDD  |  
